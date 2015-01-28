@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Alphanum Sorting
+Bundle-SymbolicName: com.davekoelle.alphanum
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: DAVE KOELLE
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Export-Package: com.davekoelle.alphanum
